@@ -62,3 +62,24 @@
 //         e.sprint();
 //     }
 // }
+
+/**
+ * Exercise 10 (2)
+ */
+// public class Exercise{
+//     /**
+//      * 执行命令为：
+//      * javac Exercise.java
+//      * java Exercise 1 2 3
+//      * 输出结果为：1 2 3
+//      */
+//     public static void main(String[] args) {
+//         if(args.length < 3){
+//             System.out.println("ding");
+//             System.exit(1);
+//         }
+//         System.out.println(args[0]);
+//         System.out.println(args[1]);
+//         System.out.println(args[2]);
+//     }
+// }
